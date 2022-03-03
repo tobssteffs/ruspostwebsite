@@ -1,175 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>/</loc>
+      <loc>https://www.ruspost.eu/</loc>
    </url>
    <url>
-      <loc>/de/cookies</loc>
+      <loc>https://www.ruspost.eu/de/cookies</loc>
    </url>
    <url>
-      <loc>/de/datenschutzerklarung</loc>
+      <loc>https://www.ruspost.eu/de/datenschutzerklarung</loc>
    </url>
    <url>
-      <loc>/de/downloadbereich</loc>
+      <loc>https://www.ruspost.eu/de/downloadbereich</loc>
    </url>
    <url>
-      <loc>/de/geschaeftskunden</loc>
+      <loc>https://www.ruspost.eu/de/geschaeftskunden</loc>
    </url>
    <url>
-      <loc>/de/geschaftskunden/b2c</loc>
+      <loc>https://www.ruspost.eu/de/geschaftskunden/b2b</loc>
    </url>
    <url>
-      <loc>/de/geschaftskunden/versandsysteme-und-anbindungen</loc>
+      <loc>https://www.ruspost.eu/de/geschaftskunden/b2c</loc>
    </url>
    <url>
-      <loc>/de/geschaftskunden/weitere-leistungen-und-services</loc>
+      <loc>https://www.ruspost.eu/de/geschaftskunden/versandsysteme-und-anbindungen</loc>
    </url>
    <url>
-      <loc>/de/haufig-gestellte-fragen</loc>
+      <loc>https://www.ruspost.eu/de/geschaftskunden/weitere-leistungen-und-services</loc>
    </url>
    <url>
-      <loc>/de/impressum</loc>
+      <loc>https://www.ruspost.eu/de/haufig-gestellte-fragen</loc>
    </url>
    <url>
-      <loc>/de/karriere</loc>
+      <loc>https://www.ruspost.eu/de/impressum</loc>
    </url>
    <url>
-      <loc>/de/kontakt</loc>
+      <loc>https://www.ruspost.eu/de/karriere</loc>
    </url>
    <url>
-      <loc>/de/presse</loc>
+      <loc>https://www.ruspost.eu/de/kontakt</loc>
    </url>
    <url>
-      <loc>/de/privatkunden</loc>
+      <loc>https://www.ruspost.eu/de/presse</loc>
    </url>
    <url>
-      <loc>/de/sendungsverfolgung</loc>
+      <loc>https://www.ruspost.eu/de/privatkunden</loc>
    </url>
    <url>
-      <loc>/de/uber-russland</loc>
+      <loc>https://www.ruspost.eu/de/sendungsverfolgung</loc>
    </url>
    <url>
-      <loc>/de/unsere-geschichte</loc>
+      <loc>https://www.ruspost.eu/de/uber-russland</loc>
    </url>
    <url>
-      <loc>/de/zoll-und-mehrwertsteuer</loc>
+      <loc>https://www.ruspost.eu/de/unsere-geschichte</loc>
    </url>
    <url>
-      <loc>/en/about-russia</loc>
+      <loc>https://www.ruspost.eu/de/zoll-und-mehrwertsteuer</loc>
    </url>
    <url>
-      <loc>/en/business/b2c</loc>
+      <loc>https://www.ruspost.eu/en/about-russia</loc>
    </url>
    <url>
-      <loc>/en/business/further-services</loc>
+      <loc>https://www.ruspost.eu/en/business/b2b-en</loc>
    </url>
    <url>
-      <loc>/en/business/shipping-systems-and-integrations</loc>
+      <loc>https://www.ruspost.eu/en/business/b2c</loc>
    </url>
    <url>
-      <loc>/en/business</loc>
+      <loc>https://www.ruspost.eu/en/business/further-services</loc>
    </url>
    <url>
-      <loc>/en/career</loc>
+      <loc>https://www.ruspost.eu/en/business/shipping-systems-and-integrations</loc>
    </url>
    <url>
-      <loc>/en/contact</loc>
+      <loc>https://www.ruspost.eu/en/business-2</loc>
    </url>
    <url>
-      <loc>/en/costums-and-taxes</loc>
+      <loc>https://www.ruspost.eu/en/career</loc>
    </url>
    <url>
-      <loc>/en/downloads</loc>
+      <loc>https://www.ruspost.eu/en/contact</loc>
    </url>
    <url>
-      <loc>/en/faq</loc>
+      <loc>https://www.ruspost.eu/en/costums-and-taxes</loc>
    </url>
    <url>
-      <loc>/en/home</loc>
+      <loc>https://www.ruspost.eu/en/downloads</loc>
    </url>
    <url>
-      <loc>/en/individuals</loc>
+      <loc>https://www.ruspost.eu/en/faq</loc>
    </url>
    <url>
-      <loc>/en/legal-notice</loc>
+      <loc>https://www.ruspost.eu/en/home</loc>
    </url>
    <url>
-      <loc>/en/our-story</loc>
+      <loc>https://www.ruspost.eu/en/individuals</loc>
    </url>
    <url>
-      <loc>/en/privacy-policy</loc>
+      <loc>https://www.ruspost.eu/en/legal-notice</loc>
    </url>
    <url>
-      <loc>/en/tracking-info</loc>
+      <loc>https://www.ruspost.eu/en/our-story</loc>
    </url>
    <url>
-      <loc>/en/press</loc>
+      <loc>https://www.ruspost.eu/en/press</loc>
    </url>
    <url>
-      <loc>/home-backup</loc>
+      <loc>https://www.ruspost.eu/en/privacy-policy</loc>
    </url>
    <url>
-      <loc>/home-develop-tracking-api</loc>
+      <loc>https://www.ruspost.eu/en/tracking-info</loc>
    </url>
    <url>
-      <loc>/productiontools/elements/videoplayer</loc>
+      <loc>https://www.ruspost.eu/home-backup</loc>
    </url>
    <url>
-      <loc>/productiontools/styleguide</loc>
+      <loc>https://www.ruspost.eu/home-develop-tracking-api</loc>
    </url>
    <url>
-      <loc>/ru/about-russia</loc>
+      <loc>https://www.ruspost.eu/productiontools/elements/videoplayer</loc>
    </url>
    <url>
-      <loc>/ru/business/b2c</loc>
+      <loc>https://www.ruspost.eu/productiontools/styleguide</loc>
    </url>
    <url>
-      <loc>/ru/business/further-services</loc>
+      <loc>https://www.ruspost.eu/ru/about-russia</loc>
    </url>
    <url>
-      <loc>/ru/business/shipping-systems-and-integrations</loc>
+      <loc>https://www.ruspost.eu/ru/business/b2b-ru</loc>
    </url>
    <url>
-      <loc>/ru/business</loc>
+      <loc>https://www.ruspost.eu/ru/business/b2c</loc>
    </url>
    <url>
-      <loc>/ru/career</loc>
+      <loc>https://www.ruspost.eu/ru/business/further-services</loc>
    </url>
    <url>
-      <loc>/ru/contact-ru</loc>
+      <loc>https://www.ruspost.eu/ru/business/shipping-systems-and-integrations</loc>
    </url>
    <url>
-      <loc>/ru/costums-and-taxes</loc>
+      <loc>https://www.ruspost.eu/ru/business-2</loc>
    </url>
    <url>
-      <loc>/ru/downloads</loc>
+      <loc>https://www.ruspost.eu/ru/career</loc>
    </url>
    <url>
-      <loc>/ru/faq</loc>
+      <loc>https://www.ruspost.eu/ru/contact-ru</loc>
    </url>
    <url>
-      <loc>/ru/home</loc>
+      <loc>https://www.ruspost.eu/ru/costums-and-taxes</loc>
    </url>
    <url>
-      <loc>/ru/individuals</loc>
+      <loc>https://www.ruspost.eu/ru/downloads</loc>
    </url>
    <url>
-      <loc>/ru/legal-notice</loc>
+      <loc>https://www.ruspost.eu/ru/faq</loc>
    </url>
    <url>
-      <loc>/ru/our-story</loc>
+      <loc>https://www.ruspost.eu/ru/home</loc>
    </url>
    <url>
-      <loc>/ru/privacy-policy</loc>
+      <loc>https://www.ruspost.eu/ru/individuals</loc>
    </url>
    <url>
-      <loc>/ru/tracking-info</loc>
+      <loc>https://www.ruspost.eu/ru/legal-notice</loc>
    </url>
    <url>
-      <loc>/ru/press</loc>
+      <loc>https://www.ruspost.eu/ru/our-story</loc>
    </url>
    <url>
-      <loc>/search</loc>
+      <loc>https://www.ruspost.eu/ru/press</loc>
+   </url>
+   <url>
+      <loc>https://www.ruspost.eu/ru/privacy-policy</loc>
+   </url>
+   <url>
+      <loc>https://www.ruspost.eu/ru/tracking-info</loc>
+   </url>
+   <url>
+      <loc>https://www.ruspost.eu/search</loc>
    </url>
 
 </urlset>
