@@ -124,6 +124,9 @@
       <loc>https://www.ruspost.eu/productiontools/styleguide</loc>
    </url>
    <url>
+      <loc>https://www.ruspost.eu/search</loc>
+   </url>
+   <url>
       <loc>https://www.ruspost.eu/ru/about-russia</loc>
    </url>
    <url>
@@ -176,9 +179,6 @@
    </url>
    <url>
       <loc>https://www.ruspost.eu/ru/tracking-info</loc>
-   </url>
-   <url>
-      <loc>https://www.ruspost.eu/search</loc>
    </url>
 
 </urlset>
